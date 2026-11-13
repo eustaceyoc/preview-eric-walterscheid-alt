@@ -1,0 +1,60 @@
+{
+  "note": "Editorial photographs reused from the approved Eric Walterscheid Investigations sample. None shows Eric Walterscheid, and none is his office, his equipment or a case file.",
+  "license": {
+    "name": "Pexels License",
+    "url": "https://www.pexels.com/license/"
+  },
+  "photos": [
+    {
+      "file": "assets/images/paperwork-desk.jpg",
+      "placement": "Hero (on the orange panel, no caption; credited in footer)",
+      "source": "Pexels",
+      "photoId": 7054757,
+      "title": "A Close-Up Shot of Paper Clipped Documents",
+      "photographer": "Kindel Media",
+      "page": "https://www.pexels.com/photo/a-close-up-shot-of-paper-clipped-documents-7054757/",
+      "originalFile": "https://images.pexels.com/photos/7054757/pexels-photo-7054757.jpeg"
+    },
+    {
+      "file": "assets/images/camera-lens-crop.jpg",
+      "placement": "Meet Eric Walterscheid (square crop shown in a circle; not a portrait)",
+      "source": "Pexels",
+      "photoId": 35525732,
+      "title": "Close-up of a Professional Camera Lens Outdoors",
+      "photographer": "Amar Preciado",
+      "page": "https://www.pexels.com/photo/close-up-of-a-professional-camera-lens-outdoors-35525732/",
+      "originalFile": "https://images.pexels.com/photos/35525732/pexels-photo-35525732.jpeg",
+      "derivation": "Cropped from the original 1600x2400 file to the lens area (x130-1530, y760-2160) and resized to 1100x1100. No other edits."
+    },
+    {
+      "file": "assets/images/notes-and-files.jpg",
+      "placement": "How to begin (orange band)",
+      "source": "Pexels",
+      "photoId": 7841421,
+      "title": "Close-Up Shot of Documents beside a Pen",
+      "photographer": "RDNE Stock project",
+      "page": "https://www.pexels.com/photo/close-up-shot-of-documents-beside-a-pen-7841421/",
+      "originalFile": "https://images.pexels.com/photos/7841421/pexels-photo-7841421.jpeg"
+    }
+  ],
+  "fonts": [
+    {
+      "files": [
+        "assets/fonts/merriweather-normal.woff2",
+        "assets/fonts/merriweather-italic.woff2"
+      ],
+      "family": "Merriweather (variable, latin subset)",
+      "source": "Google Fonts",
+      "license": "SIL Open Font License 1.1"
+    },
+    {
+      "files": [
+        "assets/fonts/source-sans-3-normal.woff2"
+      ],
+      "family": "Source Sans 3 (variable, latin subset)",
+      "source": "Google Fonts",
+      "license": "SIL Open Font License 1.1"
+    }
+  ],
+  "design_reference": "Layout and visual system modelled on drjamesqsimmons.com (captured 12 Nov 2026). No text, photographs, logos or branding from that site are used."
+}
